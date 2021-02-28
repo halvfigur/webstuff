@@ -1,4 +1,4 @@
-package controller
+package webstuff
 
 import (
 	"github.com/o1egl/paseto"
